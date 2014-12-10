@@ -1,4 +1,1 @@
-<<<<<<< HEAD
 ver 3
-=======
->>>>>>> parent of b952cfa... no message
